@@ -1,2 +1,5 @@
 # learnJS_1
-leran JS (Авторы: Jonas Schmedtmann)
+
+Бюджетный калькулятор, учебный проект в рамках курса Udemy
+
+Budget Calculator (Авторы: Jonas Schmedtmann)
